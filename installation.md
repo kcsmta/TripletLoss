@@ -8,7 +8,7 @@ Then activate the virtual environment
 $ conda activate BARs
 ```
 
-## Install PyTorch (follow [official tutorial]())
+## Install PyTorch (follow [official tutorial](hehehe))
 ### Make sure that GPU are available on your machine and NVIDIA Driver is installed. Check your CUDA version:
 ```
 (BARs) $ nvidia-smi | grep 'CUDA Version'
