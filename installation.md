@@ -23,4 +23,3 @@ $ conda activate BARs
 import torch
 torch.cuda.is_available()
 ```
-
